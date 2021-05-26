@@ -17,7 +17,7 @@
 
 - 🔭 Working on my Blog, Github Project
 
-- 🌱 Learning Data Science, AI, ML, Electronics and Communication Engineering 
+- 🌱 An Electronics and Communication Engineering Student
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
