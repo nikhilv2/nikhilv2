@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://image.freepik.com/free-vector/abstract-metallic-red-black-background-with-contrast-stripes_71775-677.jpg" />
+<img width="100%" height = "350px" src="https://www.seekpng.com/png/full/254-2545590_best-website-development-company-in-india-creative-web.png" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
