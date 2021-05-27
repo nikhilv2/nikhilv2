@@ -37,6 +37,7 @@
 <a href = 'https://www.linkedin.com/in/nikhil-v-gopal'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/nikhilv2'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+<a href = 'https://www.logicedge.tech/'> <img width = '32px' align= 'center' src="https://www.canva.com/design/DAEfE35p7tA/view"/></a>
 
 
 
@@ -44,3 +45,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nikhilv2&show_icons=true&theme=chartreuse-dark" alt="nikhilv2" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilv2&" alt="nikhilv2" /></p>
+  
