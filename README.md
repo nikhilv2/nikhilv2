@@ -15,11 +15,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Currently Working as a Software Development intern in KSRTC, Government of Kerala. Also, Admin and content writer @ www.logicedge.tech 🤞
+<p> <ul> <li> 🔭 Currently Working as a Software Development intern in KSRTC, Government of Kerala. Also, Admin and content writer @ <a href = "https://www.logicedge.tech"> Logicedge </a> 🤞 </p> </li> </ul>
 
 - 🌱 An Electronics and Communication Engineering Student
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Tech Articles 
 
 - 💬 Talk to me about Python, C, C++ and Freelancing Opportunites on similar field
 
