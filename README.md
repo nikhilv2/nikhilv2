@@ -15,7 +15,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<p> <ul> <li> 🔭 Currently Working as a Software Development intern in KSRTC, Government of Kerala. Also, Admin and content writer @ <a href = "https://www.logicedge.tech"> Logicedge </a> 🤞 </p> </li> </ul>
+<p> <ul> <li> 🔭 Currently Working as a Software Developer intern in KSRTC, Government of Kerala. Also, Admin and content writer @ <a href = "https://www.logicedge.tech"> Logicedge </a> 🤞 </p> </li> </ul>
 
 - 🌱 An Electronics and Communication Engineering Student
 
