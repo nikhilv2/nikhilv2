@@ -15,13 +15,15 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<p> <ul> <li> 🔭 Currently Working as a Software Developer intern in KSRTC, Government of Kerala. Also, Admin and content writer @ <a href = "https://www.logicedge.tech"> Logicedge </a> 🤞 </p> </li> </ul>
+<p> <ul> <li> 🔭 Currently Working as a Software Developer intern in KSRTC, Government of Kerala. Also, admin and content writer @ <a href = "https://www.logicedge.tech"> Logicedge </a> 🤞 </p> </li> </ul>
 
 - 🌱 An Electronics and Communication Engineering Student
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 👯 I’m looking to collaborate on projects and technical articles 
 
-- 💬 Talk to me about Python, C, C++ and Freelancing Opportunites on similar field
+- 💬 Talk to me about Python, C, C++ and freelancing opportunites in related fields
+
+- 😁 To know more about me, please visit my <a href = "https://nikhilv2.github.io/Portfolio/"> portfolio </a>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/nikhilv2?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
